@@ -1,0 +1,25 @@
+
+Global Financial Client is looking to hire Senior .Net Full Stack Developer for its team in Raleigh,NC location. This is a 6 months initial contract role.
+
+Years of Experience
+Overall 10 years or plus 
+
+Skills Required 
+• Proficient in programming language C#, .Net 4.5+ and .Net Core.
+• Experience on Cloud Migration: From .Net Framework to Microsoft Azure/Openshift 
+• Experience on real-time communication mechanism (preferred: Kafka)
+• Experience on caching solutions(Redis/Hazelcast)
+• Strong knowledge of multithreading, parallel processing and micro services
+• Ability to design and develop cloud ready and cloud native applications
+• Strong knowledge of WPF/UI frameworks and design patterns
+• Experience in writing Oracle SQL queries/stored proc
+• Nice to have knowledge of DevOps CICD, Build pipelines/Jenkins and GIT
+• Nice to have experience on Mongo DB
+• Nice to have Financial or Trading Systems development experience.
+
+Education:
+Bachelors or higher degree in computer science background
+
+Certifications:
+Any Certifications are huge plus
+
